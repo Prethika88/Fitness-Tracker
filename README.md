@@ -1,6 +1,6 @@
 # Fitness Tracker
 
-MERN-FitnessTracker is a full-stack web application developed using the MERN stack (MongoDB, Express, React, and Node.js). The application enables users to track and manage their workout routines, set fitness goals, and monitor progress through visual charts and graphs.
+FitnessTracker is a full-stack web application developed using the MERN stack (MongoDB, Express, React, and Node.js). The application enables users to track and manage their workout routines, set fitness goals, and monitor progress through visual charts and graphs.
 
 ## Features:
 -Create and Manage Workout Plans: Users can easily create personalized workout plans and manage exercises.
