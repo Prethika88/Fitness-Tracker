@@ -21,7 +21,7 @@ git clone git@github.com:Prethika88/Fitness-Tracker
 
 2.Navigate to the project directory:
 
-cd MERN-FitnessTracker
+cd FitnessTracker
 
 3.Install the dependencies:
 
@@ -29,8 +29,11 @@ npm install
 
 ## Technologies Used:
 
--MongoDB: NoSQL database for storing user data and workout records.
--Express: Web framework for building the backend APIs.
--React: Frontend library for building the user interface.
--Node.js: JavaScript runtime for building the backend server.
+1.ongoDB: NoSQL database for storing user data and workout records.
+
+2.Express: Web framework for building the backend APIs.
+
+3.React: Frontend library for building the user interface.
+
+4.Node.js: JavaScript runtime for building the backend server.
 
