@@ -25,7 +25,42 @@ cd FitnessTracker
 
 3.Install the dependencies:
 
+You'll need to install the required dependencies for both the client-side (React) and the server-side (Node.js/Express).
+
+First, navigate to the backend folder and install server dependencies:
+
+cd backend
+
 npm install
+
+Then, go to the frontend folder and install client-side dependencies:
+
+cd ../frontend
+
+npm install
+
+4.Setup Environment Variables
+
+5.Run the Backend Server:
+
+cd backend
+
+npm start
+
+This will run the Express server, typically on http://localhost:5000
+
+6.Run the Frontend Application:
+
+cd frontend
+
+npm start
+
+This will run the React app, usually on http://localhost:3000.
+
+7.Access the Application:
+
+Open your web browser and go to http://localhost:3000 to access the frontend of the FitnessTracker app. The app should be connected to the backend, and you can start using it.
+
 
 ## Technologies Used:
 
