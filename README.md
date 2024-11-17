@@ -67,7 +67,7 @@ Open your web browser and go to http://localhost:3000 to access the frontend of 
 
 ## Technologies Used:
 
-1.ongoDB: NoSQL database for storing user data and workout records.
+1.MongoDB: NoSQL database for storing user data and workout records.
 
 2.Express: Web framework for building the backend APIs.
 
