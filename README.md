@@ -17,11 +17,12 @@ To get started with the project, follow these steps:
 
 1.Clone the repository:
 
-git clone git@github.com:Prethika88/Fitness-Tracker
+git clone https://github.com/Prethika88/Fitness-Tracer.git
+
 
 2.Navigate to the project directory:
 
-cd FitnessTracker
+cd Fitness-Tracker
 
 3.Install the dependencies:
 
